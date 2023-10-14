@@ -1,0 +1,3 @@
+C:\Users\MONSTERMC\Downloads\SRC\HeartSender\obj\Debug\HeartSender.csproj.AssemblyReference.cache
+C:\Users\MONSTERMC\Downloads\SRC\HeartSender\obj\Debug\HeartSender.exe.config
+C:\Users\MONSTERMC\Downloads\SRC\HeartSender\obj\Debug\HeartSender.csproj.CoreCompileInputs.cache
